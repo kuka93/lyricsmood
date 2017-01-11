@@ -5,8 +5,9 @@ The goal of this project is to build a recommendation system for users who wants
 
 ### Links
 * [Demo Application](http://francescocucari.pythonanywhere.com/)
-* [Data collection IPython Notebook](https://github.com/kuka93/lyricsmood/blob/master/code/collect_data.ipynb)
-* Model training IPython Notebook
+* [Data collection (IPython Notebook)](https://github.com/kuka93/lyricsmood/blob/master/code/collect_data.ipynb)
+* Model training using binary features (IPython Notebook)
+* Model training using TFIDF (IPython Notebook)
 * Technical report
 
 ### Summary
