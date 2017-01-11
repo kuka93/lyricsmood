@@ -14,9 +14,9 @@ The goal of this project is to build a recommendation system for users who wants
 * Dataset overview
 * Exploratory data analysis
 
-wordcloud Happy:
+wordcloud *Happy*:..
 ![wordcloud Happy](https://github.com/kuka93/lyricsmood/blob/master/images/wordcloud_happy.jpg)
-wordcloud Sad:
+wordcloud Sad:..
 ![wordcloud Sad](https://github.com/kuka93/lyricsmood/blob/master/images/wordcloud_sad.jpg)
 
 * Results
