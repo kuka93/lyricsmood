@@ -27,3 +27,7 @@ wordcloud *Sad*:
 ![wordcloud Sad](https://github.com/kuka93/lyricsmood/blob/master/images/wordcloud_sad.jpg)
 
 * Results
+
+![results](https://github.com/kuka93/lyricsmood/blob/master/images/results.jpg)
+
+__Model performance of the song lyrics classifier.__ A: Receiver operating characteristic (ROC) curves of the Bernoulli naive Bayes classifier performance using a 2-gram sequence model tfidf as feature vectors for song lyrics classification by mood. The performance was evaluated via 10-fold cross validation on the lyrics dataset. The true positive rate was calculated from songs labeled as happy that were correctly classified, and the false positive rate was calculated from sad songs that were misclassified as happy. B is the confusion matrix of the classifier based on a testing dataset 
