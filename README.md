@@ -12,10 +12,8 @@ The goal of this project is to build a recommendation system for users who wants
 
 ### Summary
 * Dataset overview
-
-..* a
-
-..* b
+The *happy* and *sad* song details are collected by crawling last.fm. Lyrics are collected by crawling metrolyrics.com. All songs for which lyrics have not been available were removed from the dataset. Furthermore, non-english songs are removed from the dataset.
+The dataset contains 3.332 songs (1.499 happy songs and 1.904 sad songs).
 
 * Exploratory data analysis
 
