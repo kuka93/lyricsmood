@@ -8,3 +8,8 @@ The goal of this project is to build a recommendation system for users who wants
 * Data collection IPython Notebook
 * Model training IPython Notebook
 * Technical report
+
+### Summary
+* Dataset overview
+* Exploratory data analysis
+* Results
