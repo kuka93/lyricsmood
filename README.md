@@ -11,12 +11,12 @@ The goal of this project is to build a recommendation system for users who wants
 * Technical report
 
 ### Summary
-* Dataset overview
+* __Dataset overview__
 
 The *happy* and *sad* song details (title and artist) are collected by crawling last.fm. Song details are used to get the proper URL to get the lyrics that are collected by crawling metrolyrics.com. All songs for which lyrics have not been available were removed from the dataset. Furthermore, non-english songs are removed from the dataset.
 The dataset contains 3.332 songs (1.499 happy songs and 1.904 sad songs).
 
-* Exploratory data analysis
+* __Exploratory data analysis__
 
 wordcloud *Happy*:
 
@@ -26,7 +26,7 @@ wordcloud *Sad*:
 
 ![wordcloud Sad](https://github.com/kuka93/lyricsmood/blob/master/images/wordcloud_sad.jpg)
 
-* Results
+* __Results__
 
 ![results](https://github.com/kuka93/lyricsmood/blob/master/images/results.jpg)
 
