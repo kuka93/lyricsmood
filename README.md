@@ -8,7 +8,7 @@ The goal of this project is to build a recommendation system for users who wants
 * [Data collection (IPython Notebook)](https://github.com/kuka93/lyricsmood/blob/master/code/collect_data.ipynb)
 * [Model training using binary features (IPython Notebook)](https://github.com/kuka93/lyricsmood/blob/master/code/model_training_1.ipynb)
 * [Model training using TFIDF (IPython Notebook)](https://github.com/kuka93/lyricsmood/blob/master/code/model_training_2.ipynb)
-* Technical report
+* [Technical report](http://www.slideshare.net/FrancescoCucari/mood-classification-of-songs-based-on-lyrics)
 
 ### Summary
 * __Dataset overview__
